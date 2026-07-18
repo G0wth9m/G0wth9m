@@ -367,3 +367,8 @@ Collection of Python, SQL, and Power BI projects focused on solving real-world b
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:2563eb"/>
 
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/G0wth9m/G0wth9m/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
