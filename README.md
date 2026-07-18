@@ -365,7 +365,7 @@ Collection of Python, SQL, and Power BI projects focused on solving real-world b
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Footer"/>
+<img src="https://raw.githubusercontent.com/G0wth9m/G0wth9m/main/assets/footer.svg" width="100%" alt="Footer"/>
 
 ### ⭐ Thanks for visiting my profile!
 
