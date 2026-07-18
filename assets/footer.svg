@@ -1,0 +1,104 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#2563eb"/>
+<stop offset="50%" stop-color="#38bdf8"/>
+<stop offset="100%" stop-color="#2563eb"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="160" fill="#020617"/>
+
+<path fill="url(#bg)" opacity="0.8">
+
+<animate attributeName="d"
+
+dur="8s"
+
+repeatCount="indefinite"
+
+values="
+M0,90 C150,40 350,120 600,90 C850,50 1050,120 1200,80 L1200,160 L0,160 Z;
+M0,80 C150,120 350,50 600,100 C850,130 1050,60 1200,90 L1200,160 L0,160 Z;
+M0,90 C150,40 350,120 600,90 C850,50 1050,120 1200,80 L1200,160 L0,160 Z
+"/>
+
+</path>
+
+<path fill="#38bdf8" opacity="0.18">
+
+<animate attributeName="d"
+
+dur="6s"
+
+repeatCount="indefinite"
+
+values="
+M0,110 C250,70 450,130 650,90 C900,70 1100,130 1200,100 L1200,160 L0,160 Z;
+M0,95 C250,130 450,70 650,120 C900,130 1100,70 1200,90 L1200,160 L0,160 Z;
+M0,110 C250,70 450,130 650,90 C900,70 1100,130 1200,100 L1200,160 L0,160 Z
+"/>
+
+</path>
+
+<circle cx="200" cy="40" r="2" fill="#38bdf8">
+<animate attributeName="cy" values="40;70;40" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="400" cy="70" r="2.5" fill="#60a5fa">
+<animate attributeName="cy" values="70;35;70" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="600" cy="35" r="2" fill="#93c5fd">
+<animate attributeName="cy" values="35;65;35" dur="7s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="800" cy="70" r="2.5" fill="#60a5fa">
+<animate attributeName="cy" values="70;35;70" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1000" cy="40" r="2" fill="#38bdf8">
+<animate attributeName="cy" values="40;70;40" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<text
+x="600"
+y="60"
+text-anchor="middle"
+font-size="22"
+font-family="Segoe UI"
+font-weight="700"
+fill="#ffffff">
+
+Thanks for Visiting My Profile ⭐
+
+</text>
+
+<text
+x="600"
+y="90"
+text-anchor="middle"
+font-size="16"
+font-family="Segoe UI"
+fill="#cbd5e1">
+
+Building Intelligent Solutions Through Data
+
+</text>
+
+<text
+x="600"
+y="118"
+text-anchor="middle"
+font-size="13"
+font-family="Segoe UI"
+fill="#94a3b8">
+
+Data Analytics • Data Science • Machine Learning • Python • Power BI
+
+</text>
+
+</svg>
