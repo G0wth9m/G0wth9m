@@ -362,13 +362,8 @@ Collection of Python, SQL, and Power BI projects focused on solving real-world b
 </div>
 
 ---
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/G0wth9m/G0wth9m/main/assets/footer.svg" width="100%" alt="Footer"/>
-
-### ⭐ Thanks for visiting my profile!
-
-*"Turning Data into Decisions • Building the Future with AI"*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:2563eb"/>
 
 </div>
